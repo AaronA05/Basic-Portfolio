@@ -1,12 +1,18 @@
 
 ul{
 	list-style-type: none;
-	margin: -10px;
+	margin-top: -10px;
+	margin-right: -10px;
+	margin-bottom: 100px;
+	margin-left: -10px;
 	padding: 0px;
 	padding-left: 50px;
+	padding-right: 0px;
 	overflow: hidden;
 	background-color: #fff;
 	border-bottom: 1px solid #dedcd8;
+	position: fixed;
+	width: 960px;
 }
 li{
 	display:inline-block;
